@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "classdumper",
+    "name": "Class Dumper",
+    "description": "A mod to dump class files.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Your Name"],
+    "credits": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
